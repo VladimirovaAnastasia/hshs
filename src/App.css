@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  gap: 15px;
+}
+
+.test1 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+}
+
+.test2 {
+  width: 100px;
+  height: 100px;
+  background-color: deeppink;
+}
